@@ -1,4 +1,5 @@
 # COFIY - Açık Kaynak Firma ve Belge Yönetim Sistemi
+<img width="1024" height="1024" alt="icon" src="https://github.com/user-attachments/assets/b3e324d4-74f8-4306-bb00-ed7f7813af76" />
 
 ![COFIY](https://img.shields.io/badge/COFIY-Open%20Source-blue?style=for-the-badge)
 ![Electron](https://img.shields.io/badge/Electron-27.2.3-47848F?style=for-the-badge&logo=electron)
