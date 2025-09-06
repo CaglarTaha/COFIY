@@ -86,14 +86,7 @@ cofiy/
 │   └── index.css            # Global stiller
 ├── data/                    # Veri dosyaları (otomatik oluşur)
 ├── dist/                    # Build çıktısı
-└── docs/                    # Proje dokümantasyonu
-```
-
-## 🤝 Katkıda Bulunanlar
-
-Bu harika insanlara teşekkürler ([katkıda bulunanlar listesi](https://github.com/[kullanici-adi]/cofiy/contributors)):
-
-<!-- Katkıda bulunanların listesi buraya gelecek -->
+└── docs/                    # Proje 
 
 ## 📜 Lisans
 
@@ -113,7 +106,7 @@ C: GitHub Issues sayfasında yeni bir konu açabilirsiniz.
 ## 📞 İletişim
 
 - GitHub Issues: [Sorun Bildir](https://github.com/[kullanici-adi]/cofiy/issues)
-- E-posta: [proje yöneticisi e-posta]
+- E-posta: codeativ@gmail.com
 
 ## 🌍 Çeviriler
 
